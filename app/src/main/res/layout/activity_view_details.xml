@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".View_Details_Activity"
+    android:padding="10dp"
+    android:gravity="center_horizontal">
+
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/view1"
+        android:layout_marginTop="40dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="clip_horizontal">
+
+            <com.airbnb.lottie.LottieAnimationView
+                android:id="@+id/animation_view"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:maxWidth="300dp"
+                android:maxHeight="160dp"/>
+
+            <TextView
+            android:id="@+id/sentiment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:paddingStart="40dp"
+            android:layout_marginTop="25dp"
+            android:layout_toEndOf="@+id/animation_view"
+            android:text="@string/joy"
+            android:singleLine="true"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            />
+
+        </RelativeLayout>
+
+
+    </com.google.android.material.card.MaterialCardView>
+    <ScrollView
+        android:id="@+id/view2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/view1">
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_marginTop="20dp">
+        <TextView
+            android:id="@+id/sentence"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="@string/i_like_programing"
+            android:textSize="15sp"
+            />
+
+
+
+    </com.google.android.material.card.MaterialCardView>
+    </ScrollView>
+
+
+
+</RelativeLayout>

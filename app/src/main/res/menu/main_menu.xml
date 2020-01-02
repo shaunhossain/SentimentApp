@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/addImage"
+        android:title="Add Image"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_action_image"/>
+    <item
+        android:id="@+id/clear"
+        android:title="Clear Screen"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_action_clear"/>
+    <item
+        android:id="@+id/save"
+        android:title="Save"/>
+    <item
+        android:id="@+id/view_all"
+        android:title="View All" />
+
+</menu>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:id="@+id/sampleView">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/show_sentence"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="i like programing"
+            android:singleLine="true"
+            android:textSize="15dp"
+            />
+
+        <TextView
+            android:id="@+id/show_sentiment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="joy"
+            android:textSize="25dp"
+            android:layout_marginTop="15dp"
+            android:layout_below="@+id/show_sentence"/>
+
+
+    </androidx.cardview.widget.CardView>
+
+
+</RelativeLayout>

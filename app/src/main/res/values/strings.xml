@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sentiment App</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="result">Result</string>
+    <string name="input_your_sentence">Input your Sentence</string>
+    <string name="analyze">Analyze</string>
+    <string name="todo">TODO</string>
+    <string name="image_preview">Image Preview</string>
+    <string name="dialog">Dialog Preview</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="need_a_guide">Need a Guide?</string>
+    <string name="warning">Camera button to insert \nImage and X to clear screen</string>
+    <string name="scan_text">Scan Text</string>
+    <string name="joy">joy</string>
+    <string name="i_like_programing">i like programing.</string>
+</resources>

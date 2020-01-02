@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "722454606086",
+    "firebase_url": "https://sentimentapp-1e3fb.firebaseio.com",
+    "project_id": "sentimentapp-1e3fb",
+    "storage_bucket": "sentimentapp-1e3fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722454606086:android:bb808952d5efb0cb942e87",
+        "android_client_info": {
+          "package_name": "com.shaunhossain.sentimentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722454606086-ae5kjnr63t6k6bm3b967n6rbo561rs52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shaunhossain.sentimentapp",
+            "certificate_hash": "f31632f2b965ca2e27207891eb3e00cac4a01e19"
+          }
+        },
+        {
+          "client_id": "722454606086-fsqehial8mrcrnhbgrbeo9ialebfu8mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB63gSycAeHuEQeylxIL3udahtPF089mgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722454606086-fsqehial8mrcrnhbgrbeo9ialebfu8mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
