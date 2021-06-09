@@ -12,7 +12,8 @@ Sentiment analysis or opinion analysis is creating a vast area of research in th
 
 
 ## Screenshots
-|<img src="screenshots/home_screen.jpg" width=200/>|<img src="screenshots/details_screen.jpg" width=200/>|<img src="screenshots/save_news_screen.jpg" width=200/>|<img src="screenshots/search_screen_empty.jpg" width=200/>|
+|<img src="screenshots/home_screen_2.jpg" width=200/>|<img src="screenshots/home_scren.jpg" width=200/>|<img src="screenshots/select_image_screen.jpg" width=200/>|<img src="screenshots/save_data_screen.jpg" width=200/>|
 |:----:|:----:|:----:|:----:|
 
-|<img src="screenshots/search_screen_edit.jpg" width=200/>|
+|<img src="screenshots/view_emotion_screen.jpg" width=200/>|
+|:----:|
