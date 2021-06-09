@@ -8,7 +8,7 @@ Sentiment analysis or opinion analysis is creating a vast area of research in th
 * Sentiment analysis or opinion analysis is creating a vast area of research in this modern era of social media so that I build presentable procedures to predict user sentiments from their online reviews given for different businesses by using majority 
 
 
-## App [Link](https://github.com/shaunhossain/Eud-Bangla/releases/download/v0.3-alpha.2/EduBangla.apk)
+## App [Link](https://github.com/shaunhossain/SentimentApp/releases/download/v1.0/Sentiment.App.apk)
 
 
 ## Screenshots
